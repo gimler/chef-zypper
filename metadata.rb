@@ -1,3 +1,4 @@
+name              "zypper"
 maintainer        "The App Business"
 maintainer_email  "engineering@theappbusiness.com"
 license           "Apache 2.0"
